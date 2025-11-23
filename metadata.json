@@ -1,0 +1,5 @@
+{
+  "name": "Aus Standard Drink Calculator",
+  "description": "A smart calculator for Australian Standard Drinks using manual inputs or natural language recognition via Gemini API.",
+  "requestFramePermissions": []
+}
