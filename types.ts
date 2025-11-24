@@ -12,6 +12,8 @@ export enum CalculationMode {
   AI = 'AI'
 }
 
+export type Gender = 'male' | 'female';
+
 export const COMMON_SIZES = [
   { label: 'Nip/Shot', volume: 30 },
   { label: 'Small Wine', volume: 100 },
